@@ -1,6 +1,6 @@
 "# SPL2_02" 
 
-Hallo Miteeidjsgansdang7
-Wie gehts euch
-alles gut?
-Jaaaaaaaa
+* Hallo Miteeidjsgansdang
+* Wie gehts euch
+* alles gut?
+* Jaaaaaaaa
