@@ -2,9 +2,15 @@
 # erzeugen der Primzahlen von 1 bis 1000
 #Achtung 1 ist per Definition keine Primzahlen
 
-i = 1
-x = 0
 
-for i in range (1,1000):
-		if(i%i == 0 and i% i == 1):
-			print(i)
+
+for i in range (2,1001):
+	Primzahl = True
+	for x in range(2, i):
+		if(i%x == 0):
+			Primzahl = False
+			break
+	if(Primzahl == True):
+		print(i)
+	
+			
